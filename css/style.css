@@ -1,0 +1,39 @@
+* {
+    background-color: #393E46;
+    margin: auto;
+}
+
+.Container {
+    text-align: center;
+}
+
+h1,
+.textEdit {
+    color: #4ECCA3;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+footer {
+    color: aliceblue;
+}
+
+h1,
+.textEdit,
+footer {
+    text-align: center;
+    padding: 2% 5%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 8rem;
+}
+
+.textEdit {
+    /* width: 50%; */
+    display: inline-block;
+}
+
+.cent {
+    align-items: center;
+}
